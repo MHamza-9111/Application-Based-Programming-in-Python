@@ -51,7 +51,6 @@ This project is part of my **AI Diploma** under **Sir Wahaj** at **Aptech Pakist
 ## 👨‍💻 Author
 
 **Mohammad Hamza Mughal**
-AI Diploma Student | **Sir Muhammad Wahaj** – Aptech Pakistan, Shahrah-e-Faisal
 
 ---
 
